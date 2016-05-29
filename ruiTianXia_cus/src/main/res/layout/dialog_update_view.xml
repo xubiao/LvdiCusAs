@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/activity_radius_bg"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="13dp"
+            android:src="@drawable/update_logo" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="发现新版本1.0.1"
+            android:textColor="#2f9f7e"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0.6dp"
+            android:layout_marginTop="10dp"
+            android:background="#2f9f7e" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="16dp"
+            android:text="更新内容"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/contentTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="1dp"
+            android:text="版本1.0"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="40dp"
+            android:button="@drawable/regi_check_bg"
+            android:text="  忽略该版"
+            android:textColor="#666666"
+            android:textSize="12sp" />
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0.3dp"
+            android:layout_marginTop="10dp"
+            android:background="#dbdbdb" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="46dp" >
+
+            <View
+                android:id="@+id/line"
+                android:layout_width="0.3dp"
+                android:layout_height="fill_parent"
+                android:layout_centerInParent="true"
+                android:background="#dbdbdb" />
+
+            <Button
+                android:id="@+id/updateBt"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_toLeftOf="@+id/line"
+                android:background="@null"
+                android:text="更新"
+                android:textColor="#2f9f7e"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/cancelBt"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_toRightOf="@+id/line"
+                android:background="@null"
+                android:text="暂不更新"
+                android:textColor="#afafaf"
+                android:textSize="15sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

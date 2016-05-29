@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF" >
+
+    <FrameLayout
+        android:id="@+id/fullscreen_custom_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/error_console"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" />
+
+        <FrameLayout
+            android:id="@+id/main_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/webPro"
+        android:layout_width="fill_parent"
+        android:layout_height="4dp"
+        android:indeterminateDrawable="@android:drawable/progress_indeterminate_horizontal"
+        android:indeterminateOnly="false"
+        android:progressDrawable="@drawable/progressbar_mini"
+        android:visibility="visible" />
+
+    <RelativeLayout
+        android:id="@+id/web_error_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:visibility="gone" >
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/iv_web_error"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/h5_error_bg"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tv_error"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:textColor="@color/gray"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <!--  
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminate="false" 
+        android:indeterminateDrawable="@drawable/progress_circular" />
+-->
+</RelativeLayout>

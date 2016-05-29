@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="id_circle_menu_item_image" type="id"/>
+    <item name="id_circle_menu_item_text" type="id"/>
+    <item name="id_circle_menu_item_center" type="id"/>
+    <item name="snakeImg0" type="id"/>
+    <item name="snakeImg1" type="id"/>
+    <item name="snakeImg2" type="id"/>
+    <item name="snakeImg3" type="id"/>
+    <item name="snakeImg4" type="id"/>
+    <item name="snakeImg5" type="id"/>
+    <item name="snakeImg6" type="id"/>
+    <item name="snakeImg7" type="id"/>
+    <item name="snakeImg8" type="id"/>
+    <item name="snakeImg9" type="id"/>
+    <item name="snakeImg10" type="id"/>
+    <item name="snakeImg11" type="id"/>
+    <item name="snakeImg12" type="id"/>
+    <item name="snakeImg13" type="id"/>
+    <item name="snakeImg14" type="id"/>
+    <item name="snakeImg15" type="id"/>
+    <item name="snakeImg16" type="id"/>
+    <item name="snakeImg17" type="id"/>
+    <item name="snakeImg18" type="id"/>
+    <item name="snakeImg19" type="id"/>
+    <item name="snakeImg20" type="id"/>
+    <item name="snakeImg21" type="id"/>
+    <item name="snakeImg22" type="id"/>
+    <item name="snakeImg23" type="id"/>
+    <item name="snakeImg24" type="id"/>
+    <item name="snakeImg25" type="id"/>
+    <item name="snakeImg26" type="id"/>
+    <item name="snakeImg27" type="id"/>
+    <item name="snakeImg28" type="id"/>
+    <item name="snakeImg29" type="id"/>
+    <item name="snakeContent" type="id"/>
+
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#b2b2b2"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerInParent="true" >
+
+        <ImageView
+            android:id="@+id/shakeBg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:paddingBottom="60dp"
+            android:src="@drawable/shakehideimg_man2" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/shakeImgUp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@drawable/shake_bg_up" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/shake_logo_up2" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/shakeImgDown"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.6"
+                android:background="@drawable/shake_bg_down" >
+
+                <ImageView
+                    android:id="@+id/botImv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/shake_logo_down2" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/botImv1"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/shake_logo_down_down" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/succRl"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/middle"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:id="@+id/yhqLl"
+            android:layout_width="fill_parent"
+            android:layout_height="110dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="40dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@drawable/youhq_bg_left" >
+
+                <ImageView
+                    android:id="@+id/iconIv"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="15dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.8"
+                android:background="@drawable/youhq_bg_right" >
+
+                <TextView
+                    android:id="@+id/nameTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:text="外婆家"
+                    android:textColor="#ffffff"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/priceTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/detailTv"
+                    android:layout_marginLeft="10dp"
+                    android:text="￥120.0"
+                    android:textColor="#ffffff"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/detailTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:singleLine="true"
+                    android:text="外婆带你去happy"
+                    android:textColor="#ffffff"
+                    android:textSize="13sp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

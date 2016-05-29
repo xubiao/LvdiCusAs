@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_detail.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_address_detail.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_address.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_my_address.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\item_shopcart_product.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\item_shopcart_product.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_common_download_notification.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\video_loading_progress.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\video_loading_progress.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\address_city_select_view.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\address_city_select_view.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_succ.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_register_succ.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_person_center.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_person_center.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_sex_view.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\dialog_edit_sex_view.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_address_name_view.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\dialog_edit_address_name_view.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\view_app_card_item.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\view_app_card_item.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\item_service_config_tab.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\item_service_config_tab.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_navigation.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_navigation.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_detail_product.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\item_order_detail_product.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_appoint.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\item_order_appoint.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\view_my_address_item.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\view_my_address_item.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\app_card_group.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\app_card_group.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\change_location_item_view.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\change_location_item_view.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\home_menu_view.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\home_menu_view.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\custom_screen.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\custom_screen.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header2.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\pull_to_refresh_header2.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_o2o_service_time.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_select_o2o_service_time.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\nagiva_menu_view.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\nagiva_menu_view.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\no_permission_tob_view.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\no_permission_tob_view.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_oder_list.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_oder_list.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_person_info.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_person_info.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shopcart.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_shopcart.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_service_confirm.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_order_service_confirm.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\circle_menu_item.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\circle_menu_item.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\view_nav_item.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\view_nav_item.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\change_location_pop.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\change_location_pop.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\view_notify.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\view_notify.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_protocol.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_protocol.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_confirm_product.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\item_order_confirm_product.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_express_query.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_express_query.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_load_footer.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\pull_to_load_footer.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\view_progress_dialog.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\exploded-aar\\LvdiCusAs\\baseFramwork\\unspecified\\res\\layout\\view_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_methor.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_pay_methor.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_detail.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\item_order_detail.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_findpassword2.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_findpassword2.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\layout_custom_dialog.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\layout_custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_aditem.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\tb_munion_aditem.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_detail_logistic.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\item_order_detail_logistic.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_nickname_view.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\dialog_edit_nickname_view.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_findpassword3.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_findpassword3.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_confirm.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_order_confirm.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\crop_image.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pic_select.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_pic_select.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\pic_select_grid_item.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\pic_select_grid_item.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_randomproduct.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_randomproduct.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\person_menu_view.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\person_menu_view.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\view_address_footview.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\view_address_footview.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_location.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_change_location.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_view.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\dialog_confirm_view.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\item_shopcart_shop.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\item_shopcart_shop.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_refund_order.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_refund_order.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launcher.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\view_app_card_item2.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\view_app_card_item2.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\main_service_view_item.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\main_service_view_item.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_address.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_add_address.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_detail_product2.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\item_order_detail_product2.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_turntable.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_turntable.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\city_picker.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\city_picker.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\play_view_item.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\play_view_item.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_detail.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update_view.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\dialog_update_view.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_findpassword1.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_findpassword1.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\right_menu_btn.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\right_menu_btn.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_exp_time.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_select_exp_time.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\layout\\activity_service_custom.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\layout\\activity_service_custom.xml"
+    }
+]

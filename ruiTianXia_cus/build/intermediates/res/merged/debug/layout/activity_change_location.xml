@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f1f1"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.3dp"
+        android:layout_marginTop="13dp"
+        android:background="#dbdbdb" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="51dp"
+        android:background="#ffffff" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            android:text="请选择城市"
+            android:textColor="#222222"
+            android:textSize="15sp" />
+
+        <RelativeLayout
+            android:id="@+id/selectCityRl"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="150dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/white_button_bg" >
+
+            <TextView
+                android:id="@+id/selectCityTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="30dp"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="#999999"
+                android:textSize="13sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/change_location_pull_bg" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.3dp"
+        android:background="#dbdbdb" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.3dp"
+        android:layout_marginTop="13dp"
+        android:background="#dbdbdb" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="51dp"
+        android:background="#ffffff" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            android:text="请选择项目名称:"
+            android:textColor="#222222"
+            android:textSize="15sp" />
+
+        <RelativeLayout
+            android:id="@+id/selectProjectRl"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="150dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/white_button_bg" >
+
+            <TextView
+                android:id="@+id/selectProjectTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="30dp"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="#999999"
+                android:textSize="13sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/change_location_pull_bg" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.3dp"
+        android:background="#dbdbdb" />
+
+    <Button
+        android:id="@+id/okBt"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="53dp"
+        android:background="@drawable/login_bg"
+        android:text="确定"
+        android:textColor="#ffffff"
+        android:textSize="15sp" />
+
+</LinearLayout>

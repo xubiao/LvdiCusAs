@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.lvdi.ruitianxia_cus"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="33dp"
+            android:background="@color/white"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <View
+                android:id="@+id/line_top"
+                android:layout_width="2px"
+                android:layout_height="22dp"
+                android:background="#c9caca" />
+
+            <ImageView
+                android:id="@+id/icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/cirle_green" />
+
+            <View
+                android:id="@+id/line_bottom"
+                android:layout_width="2px"
+                android:layout_height="38dp"
+                android:background="#c9caca" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="34dp"
+            android:background="@color/white"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_exp_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="商品已签收"
+                android:textColor="@color/pub_gray_2"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tv_exp_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="1988"
+                android:textColor="@color/pub_gray_2"
+                android:textSize="12sp" />
+
+            <View
+                android:id="@+id/line_right"
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="12dp"
+                android:layout_marginRight="16dp"
+                android:background="@color/pub_line" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

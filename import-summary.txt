@@ -1,0 +1,88 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From BaseFramwork:
+* proguard-project.txt
+From RuiTianXia_cus:
+* lvdi_signed_key\
+* lvdi_signed_key\.svn\
+* lvdi_signed_key\.svn\all-wcprops
+* lvdi_signed_key\.svn\entries
+* lvdi_signed_key\.svn\format
+* lvdi_signed_key\lvdi.key
+* lvdi_signed_key\lvdi123456.txt
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:20.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In BaseFramwork:
+* andbase\ => baseFramwork\src\main\java\
+* andbase\com\ab\util\image\arrow.png => baseFramwork\src\main\resources\com\ab\util\image\arrow.png
+* andbase\com\ab\view\chart\package.html => baseFramwork\src\main\resources\com\ab\view\chart\package.html
+* andbase\com\ab\view\slidingmenu\package.html => baseFramwork\src\main\resources\com\ab\view\slidingmenu\package.html
+* AndroidManifest.xml => baseFramwork\src\main\AndroidManifest.xml
+* assets\ => baseFramwork\src\main\assets
+* res\ => baseFramwork\src\main\res\
+* src\ => baseFramwork\src\main\java\
+In RuiTianXia_cus:
+* AndroidManifest.xml => ruiTianXia_cus\src\main\AndroidManifest.xml
+* assets\ => ruiTianXia_cus\src\main\assets\
+* libs\afinal_0.5_bin.jar => ruiTianXia_cus\libs\afinal_0.5_bin.jar
+* libs\alipaySdk-20151112.jar => ruiTianXia_cus\libs\alipaySdk-20151112.jar
+* libs\armeabi\libbspatch.so => ruiTianXia_cus\src\main\jniLibs\armeabi\libbspatch.so
+* libs\armeabi\libjpush205.so => ruiTianXia_cus\src\main\jniLibs\armeabi\libjpush205.so
+* libs\armeabi\liblocSDK6a.so => ruiTianXia_cus\src\main\jniLibs\armeabi\liblocSDK6a.so
+* libs\BaiduLBS_Android.jar => ruiTianXia_cus\libs\BaiduLBS_Android.jar
+* libs\jpush-android-2.0.5.jar => ruiTianXia_cus\libs\jpush-android-2.0.5.jar
+* libs\libammsdk.jar => ruiTianXia_cus\libs\libammsdk.jar
+* libs\umeng-analytics-v5.6.4.jar => ruiTianXia_cus\libs\umeng-analytics-v5.6.4.jar
+* libs\umeng-update-v2.6.0.1.jar => ruiTianXia_cus\libs\umeng-update-v2.6.0.1.jar
+* libs\universal-image-loader-1.9.4.jar => ruiTianXia_cus\libs\universal-image-loader-1.9.4.jar
+* lvdi\ => ruiTianXia_cus\src\main\java\
+* res\ => ruiTianXia_cus\src\main\res\
+* src\ => ruiTianXia_cus\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

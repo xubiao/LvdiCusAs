@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants" >
+
+    <RelativeLayout
+        android:layout_width="180dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="14dp" >
+
+        <ImageView
+            android:id="@+id/card1"
+            android:layout_width="170dp"
+            android:layout_height="116dp"
+            android:layout_above="@+id/card2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="-45dp"
+            android:rotationX="-15"
+            android:scaleX="0.8"
+            android:scaleY="0.8" >
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/card2"
+            android:layout_width="170dp"
+            android:layout_height="116dp"
+            android:layout_above="@+id/card3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="-30dp"
+            android:rotationX="-20"
+            android:scaleX="0.85"
+            android:scaleY="0.85" >
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/card3"
+            android:layout_width="170dp"
+            android:layout_height="116dp"
+            android:layout_centerInParent="true" >
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/addIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/tj_android_1" />
+
+        <ImageView
+            android:id="@+id/deleteIcon"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignRight="@+id/card3"
+            android:layout_alignTop="@+id/card3"
+            android:background="@drawable/service_delete" />
+
+        <ImageView
+            android:id="@+id/card4"
+            android:layout_width="170dp"
+            android:layout_height="116dp"
+            android:layout_below="@+id/card3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-30dp"
+            android:rotationX="20"
+            android:scaleX="0.85"
+            android:scaleY="0.85" >
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/card5"
+            android:layout_width="170dp"
+            android:layout_height="116dp"
+            android:layout_below="@+id/card4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-45dp"
+            android:rotationX="15"
+            android:scaleX="0.8"
+            android:scaleY="0.8" >
+        </ImageView>
+    </RelativeLayout>
+
+</RelativeLayout>

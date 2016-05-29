@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cirle_green.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\cirle_green.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_holo_light.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\exploded-aar\\LvdiCusAs\\baseFramwork\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_holo_light.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_normal.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_divider.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_back.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_loading2.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\progress_loading2.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cirle_gray.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\cirle_gray.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_tap.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
+    }
+]

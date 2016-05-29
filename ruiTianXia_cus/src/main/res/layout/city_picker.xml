@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:su="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="#eeeeee" >
+
+        <TextView
+            android:id="@+id/closeTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp"
+            android:text="关闭"
+            android:textColor="#35b38d"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/saveTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp"
+            android:text="完成"
+            android:textColor="#35b38d"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="25dp"
+        android:background="#ffffff"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <com.lvdi.ruitianxia_cus.view.ScrollerNumberPicker
+            android:id="@+id/province"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            su:itemNumber="3"
+            su:lineColor="#dbdbdb"
+            su:maskHight="32dp"
+            su:noEmpty="true"
+            su:normalTextColor="#a9a9a9"
+            su:normalTextSize="12sp"
+            su:selecredTextColor="#333333"
+            su:selecredTextSize="15sp"
+            su:unitHight="46dp" />
+
+        <com.lvdi.ruitianxia_cus.view.ScrollerNumberPicker
+            android:id="@+id/city"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            su:itemNumber="3"
+            su:lineColor="#dbdbdb"
+            su:maskHight="32dp"
+            su:noEmpty="true"
+            su:normalTextColor="#a9a9a9"
+            su:normalTextSize="12sp"
+            su:selecredTextColor="#333333"
+            su:selecredTextSize="15sp"
+            su:unitHight="46dp" />
+
+        <com.lvdi.ruitianxia_cus.view.ScrollerNumberPicker
+            android:id="@+id/couny"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            su:itemNumber="3"
+            su:lineColor="#dbdbdb"
+            su:maskHight="32dp"
+            su:noEmpty="true"
+            su:normalTextColor="#a9a9a9"
+            su:normalTextSize="12sp"
+            su:selecredTextColor="#333333"
+            su:selecredTextSize="15sp"
+            su:unitHight="46dp" />
+    </LinearLayout>
+
+</LinearLayout>

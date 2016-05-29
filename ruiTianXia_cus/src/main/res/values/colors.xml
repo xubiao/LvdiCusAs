@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="green_dark">#9CDC6A</color>
+    <color name="blue">#33B5E5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#7c7c7c</color>
+    <color name="gray_white">#ebebeb</color>
+    <color name="gray_light">#887c7c7c</color>
+    <color name="gray_dark">#2e2e2e</color>
+    <color name="yellow">#FFFC00</color>
+    <color name="pink">#FF87EF</color>
+    <color name="orange">#ff6200</color>
+    <color name="list_divider">#D3D3D3</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_bg">#88838B8B</color>
+    <color name="theme_bg">#2b9071</color>
+    <color name="theme2_bg">#484f56</color>
+    <color name="activity_bg">#f1f1f1</color>
+    <color name="code_nor">#7dc67f</color>
+    <color name="code_pre">#53ae56</color>
+
+    <!-- 黑色 - 购物车底部黑色背景 -->
+    <color name="pub_black">#303031</color>
+    <!-- 深红色- 购物车底部去结算按钮背景 -->
+    <color name="pub_dark_red">#F15153</color>
+    <!-- 红色- 购物车里价格颜色 -->
+    <color name="pub_red_price">#ff3e3e</color>
+    <!-- 灰白色- 购物车底部不含运费字体颜色 -->
+    <color name="pub_white_gray">#c9cbce</color>
+    <!-- 分割线颜色 -->
+    <color name="pub_line">#dbdbdb</color>
+    <!-- 黑色字体颜色 -->
+    <color name="pub_black_2">#505050</color>
+    <!-- 黑色字体颜色 -->
+    <color name="pub_black_3">#343434</color>
+
+    <!-- 灰色-  输入框字体提示颜色 -->
+    <color name="pub_gray_1">#999999</color>
+    <!-- 灰色-  输入框字体提示颜色 -->
+    <color name="pub_gray_2">#949494</color>
+    <!-- 灰色字体颜色 -->
+    <color name="pub_gray_3">#666666</color>
+    <!-- 橘黄色 -->
+    <color name="pub_orange">#ff6600</color>
+    <!-- 绿色 -->
+    <color name="pub_green">#35b38d</color>
+    <color name="b_icon">#41a3ef</color>
+    <color name="main_item_normal">#7ee3c5</color>
+
+    <drawable name="translucent_background">#55000000</drawable>
+
+    <color name="translucent_background">#55000000</color>
+
+</resources>

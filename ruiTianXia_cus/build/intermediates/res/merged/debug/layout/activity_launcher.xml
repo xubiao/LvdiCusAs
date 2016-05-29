@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/launcher"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/loading_bg" >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bottomIv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp"
+        android:src="@drawable/loading_logo" />
+
+    <LinearLayout
+        android:id="@+id/bottomIv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="64dp" >
+
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/image15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_pro1"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+</RelativeLayout>

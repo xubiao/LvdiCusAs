@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\logo.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\exploded-aar\\LvdiCusAs\\baseFramwork\\unspecified\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    }
+]

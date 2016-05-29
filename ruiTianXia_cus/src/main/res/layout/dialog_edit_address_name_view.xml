@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/activity_radius_bg"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/titleTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="编辑姓名"
+            android:textColor="#333333"
+            android:textSize="15sp" />
+
+        <RelativeLayout
+            android:layout_width="206dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="18dp"
+            android:background="@drawable/white_button_bg" >
+
+            <EditText
+                android:id="@+id/inputEt"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="11dp"
+                android:layout_marginRight="5dp"
+                android:layout_toLeftOf="@+id/clearIv"
+                android:background="@null"
+                android:singleLine="true"
+                android:text="刘米"
+                android:textColor="#333333"
+                android:textSize="13sp" />
+
+            <RelativeLayout
+                android:id="@+id/clearIv"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/edit_clear_bg" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="206dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="23dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/cancelBt"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:background="@drawable/white_button_bg"
+                android:text="取消"
+                android:textColor="#333333"
+                android:textSize="13sp" />
+
+            <Button
+                android:id="@+id/okBt"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:layout_gravity="right"
+                android:layout_marginLeft="3dp"
+                android:layout_weight="1"
+                android:background="@drawable/white_button_bg"
+                android:text="确定"
+                android:textColor="#35b38d"
+                android:textSize="13sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

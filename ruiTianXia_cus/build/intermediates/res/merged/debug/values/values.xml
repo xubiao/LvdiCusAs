@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_time_o2o_sale_hour">
+        <item>11:00-12:00</item>
+        <item>12:00-13:00</item>
+        <item>16:00-17:00</item>
+        <item>17:00-18:00</item>
+        <item>18:00-19:00</item>
+        <item>19:00-20:00</item>
+        <item>20:00-21:00</item>
+    </string-array>
+    <string-array name="o2o_service_day">
+        <item>今天</item>
+        <item>明天</item>
+        <item>后天</item>
+    </string-array>
+    <color name="activity_bg">#f1f1f1</color>
+    <color name="b_icon">#41a3ef</color>
+    <color name="black">#000000</color>
+    <color name="blue">#33B5E5</color>
+    <color name="code_nor">#7dc67f</color>
+    <color name="code_pre">#53ae56</color>
+    <color name="gray">#7c7c7c</color>
+    <color name="gray_dark">#2e2e2e</color>
+    <color name="gray_light">#887c7c7c</color>
+    <color name="gray_white">#ebebeb</color>
+    <color name="green">#00FF00</color>
+    <color name="green_dark">#9CDC6A</color>
+    <color name="list_divider">#D3D3D3</color>
+    <color name="main_item_normal">#7ee3c5</color>
+    <color name="orange">#ff6200</color>
+    <color name="pink">#FF87EF</color>
+    <color name="pub_black">#303031</color>
+    <color name="pub_black_2">#505050</color>
+    <color name="pub_black_3">#343434</color>
+    <color name="pub_dark_red">#F15153</color>
+    <color name="pub_gray_1">#999999</color>
+    <color name="pub_gray_2">#949494</color>
+    <color name="pub_gray_3">#666666</color>
+    <color name="pub_green">#35b38d</color>
+    <color name="pub_line">#dbdbdb</color>
+    <color name="pub_orange">#ff6600</color>
+    <color name="pub_red_price">#ff3e3e</color>
+    <color name="pub_white_gray">#c9cbce</color>
+    <color name="red">#FF0000</color>
+    <color name="tb_munion_item_force">#e3e3e3</color>
+    <color name="theme2_bg">#484f56</color>
+    <color name="theme_bg">#2b9071</color>
+    <color name="translucent_background">#55000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_bg">#88838B8B</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFC00</color>
+    <declare-styleable name="Circle"><attr format="integer" name="circleBackground"/><attr name="firstChildPosition"><enum name="East" value="0"/><enum name="South" value="90"/><enum name="West" value="180"/><enum name="North" value="270"/></attr><attr format="boolean" name="rotateToCenter"/><attr format="boolean" name="isRotating"/></declare-styleable>
+    <declare-styleable name="CircleImageView"><attr format="string" name="name"/></declare-styleable>
+    <declare-styleable name="ClipView"><attr format="integer" name="clip_view_width"/><attr format="integer" name="clip_view_height"/><attr format="color" name="clip_view_color"/><attr format="boolean" name="clip_view_round"/></declare-styleable>
+    <declare-styleable name="MultiStateView"><attr format="reference" name="msv_loadingView"/><attr format="reference" name="msv_emptyView"/><attr format="reference" name="msv_errorView"/><attr format="enum" name="msv_viewState"><enum name="content" value="0"/><enum name="error" value="1"/><enum name="empty" value="2"/><enum name="loading" value="3"/></attr></declare-styleable>
+    <declare-styleable name="NumberPicker"><attr format="color" name="normalTextColor"/><attr format="dimension" name="normalTextSize"/><attr format="color" name="selecredTextColor"/><attr format="dimension" name="selecredTextSize"/><attr format="dimension" name="unitHight"/><attr format="integer" name="itemNumber"/><attr format="color" name="lineColor"/><attr format="dimension" name="maskHight"/><attr format="boolean" name="noEmpty"/><attr format="boolean" name="isEnable"/></declare-styleable>
+    <declare-styleable name="RoundedImageView"><attr format="dimension" name="riv_corner_radius"/><attr format="dimension" name="riv_border_width"/><attr format="color" name="riv_border_color"/><attr format="boolean" name="riv_mutate_background"/><attr format="boolean" name="riv_oval"/><attr name="android:scaleType"/></declare-styleable>
+    <declare-styleable name="SnakeLayout"><attr format="integer" name="selectImg"/></declare-styleable>
+    <declare-styleable name="TImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="boolean" name="round"/><attr format="boolean" name="round_rect"/><attr format="boolean" name="rect"/><attr format="dimension" name="radii"/></declare-styleable>
+    <declare-styleable name="TProgressView"><attr format="color" name="bottom_color"/><attr format="color" name="top_color"/></declare-styleable>
+    <declare-styleable name="roundedimageview"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="picture_pull_to_refresh_footer_height">40dp</dimen>
+    <dimen name="picture_pull_to_refresh_last_update_time_text_size">10dp</dimen>
+    <dimen name="picture_pull_to_refresh_last_update_time_top_margin">6dp</dimen>
+    <dimen name="picture_pull_to_refresh_loading_text_size">14dp</dimen>
+    <drawable name="translucent_background">#55000000</drawable>
+    <item name="id_circle_menu_item_center" type="id"/>
+    <item name="id_circle_menu_item_image" type="id"/>
+    <item name="id_circle_menu_item_text" type="id"/>
+    <item name="snakeContent" type="id"/>
+    <item name="snakeImg0" type="id"/>
+    <item name="snakeImg1" type="id"/>
+    <item name="snakeImg10" type="id"/>
+    <item name="snakeImg11" type="id"/>
+    <item name="snakeImg12" type="id"/>
+    <item name="snakeImg13" type="id"/>
+    <item name="snakeImg14" type="id"/>
+    <item name="snakeImg15" type="id"/>
+    <item name="snakeImg16" type="id"/>
+    <item name="snakeImg17" type="id"/>
+    <item name="snakeImg18" type="id"/>
+    <item name="snakeImg19" type="id"/>
+    <item name="snakeImg2" type="id"/>
+    <item name="snakeImg20" type="id"/>
+    <item name="snakeImg21" type="id"/>
+    <item name="snakeImg22" type="id"/>
+    <item name="snakeImg23" type="id"/>
+    <item name="snakeImg24" type="id"/>
+    <item name="snakeImg25" type="id"/>
+    <item name="snakeImg26" type="id"/>
+    <item name="snakeImg27" type="id"/>
+    <item name="snakeImg28" type="id"/>
+    <item name="snakeImg29" type="id"/>
+    <item name="snakeImg3" type="id"/>
+    <item name="snakeImg4" type="id"/>
+    <item name="snakeImg5" type="id"/>
+    <item name="snakeImg6" type="id"/>
+    <item name="snakeImg7" type="id"/>
+    <item name="snakeImg8" type="id"/>
+    <item name="snakeImg9" type="id"/>
+    <string name="UMAppUpdate">应用更新</string>
+    <string name="UMBreak_Network">未联网</string>
+    <string name="UMDialog_InstallAPK">最新版本已下载，是否安装？</string>
+    <string name="UMGprsCondition">（提示：非WIFI环境）</string>
+    <string name="UMIgnore">忽略该版</string>
+    <string name="UMNewVersion">最新版本: </string>
+    <string name="UMNotNow">以后再说</string>
+    <string name="UMTargetSize">新版本大小:</string>
+    <string name="UMToast_IsUpdating">正在更新中....</string>
+    <string name="UMUpdateCheck">2.6.0.1.20150312</string>
+    <string name="UMUpdateContent">更新内容</string>
+    <string name="UMUpdateNow">立即更新</string>
+    <string name="UMUpdateSize">仅需要下载:</string>
+    <string name="UMUpdateTitle">发现新版本</string>
+    <string name="action_settings">action_settings</string>
+    <string name="app_name">时在</string>
+    <string name="app_rmb">￥</string>
+    <string name="please_check_network">网络连接异常</string>
+    <string name="pull_to_refresh_footer_hint_ready">松开载入更多</string>
+    <string name="pull_to_refresh_header_hint_loading">@string/pushmsg_center_load_more_ongoing_text</string>
+    <string name="pull_to_refresh_header_hint_normal">@string/pushmsg_center_pull_down_text</string>
+    <string name="pull_to_refresh_header_hint_normal2">上拉可以刷新</string>
+    <string name="pull_to_refresh_header_hint_ready">松开后刷新</string>
+    <string name="pull_to_refresh_header_last_time">@string/pushmsg_center_pull_down_update_time</string>
+    <string name="pull_to_refresh_network_error">网络不给力，请检查网络</string>
+    <string name="pull_to_refresh_no_more_data">@string/pushmsg_center_no_more_msg</string>
+    <string name="pull_to_refresh_refreshing_label">@string/pull_to_refresh_header_hint_loading</string>
+    <string name="pushmsg_center_load_more_ongoing_text">正在加载中</string>
+    <string name="pushmsg_center_no_more_msg">已经到底啦</string>
+    <string name="pushmsg_center_pull_down_text">下拉可以刷新</string>
+    <string name="pushmsg_center_pull_down_update_time">最后更新时间 : </string>
+    <string name="pushmsg_center_pull_release_text">松开获取更多</string>
+    <string name="pushmsg_center_pull_up_text">松开加载更多</string>
+    <string name="tb_munion_tip_download_prefix">正在下载:</string>
+    <string name="umeng_common_action_cancel">取消</string>
+    <string name="umeng_common_action_continue">继续</string>
+    <string name="umeng_common_action_info_exist">正在下载中.</string>
+    <string name="umeng_common_action_pause">暂停</string>
+    <string name="umeng_common_download_failed">下载失败</string>
+    <string name="umeng_common_download_finish">下载完成，请点击安装</string>
+    <string name="umeng_common_download_notification_prefix">正在下载: </string>
+    <string name="umeng_common_icon">icon</string>
+    <string name="umeng_common_info_interrupt">下载出错啦，请检查网络后继续。</string>
+    <string name="umeng_common_network_break_alert">请连接网络后再尝试！</string>
+    <string name="umeng_common_patch_finish">更新完成，请点击安装</string>
+    <string name="umeng_common_pause_notification_prefix">暂停: </string>
+    <string name="umeng_common_silent_download_finish">新版本已经准备好，请点击安装</string>
+    <string name="umeng_common_start_download_notification">正在下载应用</string>
+    <string name="umeng_common_start_patch_notification">正在更新安装包</string>
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="Dialog_Fullscreen">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="MainItemNormal">
+        <item name="android:textColor">@color/main_item_normal</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="MainItemSelect">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="MyDialogStyleBottom" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimBottom</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.Translucent" parent="android:style/Theme.Translucent">
+        <item name="android:windowBackground">@drawable/translucent_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="Widget" parent="android:Widget"/>
+    <style name="mCustomWindowTitleBackground" parent="@style/Widget">
+        <item name="android:background">@color/transparent</item>
+    </style>
+    <style name="myTheme" parent="@android:style/Theme.Light.NoTitleBar">
+
+        <!-- <item name="android:windowBackground">@drawable/start</item> -->
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowTitleSize">55dip</item>
+        <item name="android:windowTitleBackgroundStyle">@style/mCustomWindowTitleBackground</item>
+    </style>
+    <style name="no_background_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style name="order_list_top_btn">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:background">@drawable/btn_order_list_top</item>
+        <item name="android:textColor">@drawable/btn_order_list_top</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_marginLeft">4dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+</resources>

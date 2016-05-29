@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.3dp"
+        android:layout_marginTop="13dp"
+        android:background="#dbdbdb" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp" >
+
+        <TextView
+            android:id="@+id/nameTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:maxLines="16"
+            android:singleLine="true"
+            android:text="徐扬扬"
+            android:textColor="#383838"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/phoneTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="28dp"
+            android:layout_marginTop="16dp"
+            android:layout_toRightOf="@+id/nameTv"
+            android:singleLine="true"
+            android:text="186xxxx3983"
+            android:textColor="#383838"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/addressTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/nameTv"
+            android:layout_marginTop="10dp"
+            android:singleLine="true"
+            android:text="江苏省南京市玄武区苏宁大道1号"
+            android:textColor="#7e7e7e"
+            android:textSize="12sp" />
+
+        <View
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:layout_below="@+id/addressTv"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/xu_line" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/line" >
+
+            <TextView
+                android:id="@+id/checkCb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="12dp"
+                android:layout_marginTop="12dp"
+                android:drawableLeft="@drawable/address_check_nor"
+                android:gravity="center"
+                android:text="  设为默认"
+                android:textColor="#35b38d"
+                android:textSize="12sp" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true" >
+
+                <TextView
+                    android:id="@+id/deleteTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="17dp"
+                    android:layout_toRightOf="@+id/editTv"
+                    android:drawableLeft="@drawable/address_delete_bg"
+                    android:gravity="center"
+                    android:text="  删除"
+                    android:textColor="#7e7e7e"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/editTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:drawableLeft="@drawable/address_edit_bg"
+                    android:gravity="center"
+                    android:text="  编辑"
+                    android:textColor="#7e7e7e"
+                    android:textSize="12sp" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.3dp"
+        android:background="#dbdbdb" />
+
+</LinearLayout>

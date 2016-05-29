@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/activity_bg"
+    android:orientation="vertical" >
+
+    <View
+        android:id="@+id/line_top"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="13dp"
+        android:background="@color/pub_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_top"
+        android:layout_width="fill_parent"
+        android:layout_height="46dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp" >
+
+        <Button
+            android:id="@+id/btn_all"
+            style="@style/order_list_top_btn"
+            android:text="全部" />
+
+        <Button
+            android:id="@+id/btn_pay"
+            style="@style/order_list_top_btn"
+            android:text="待付款" />
+
+        <Button
+            android:id="@+id/btn_send"
+            style="@style/order_list_top_btn"
+            android:text="待发货" />
+
+        <Button
+            android:id="@+id/btn_receive"
+            style="@style/order_list_top_btn"
+            android:text="待收货" />
+
+        <Button
+            android:id="@+id/btn_back_money"
+            style="@style/order_list_top_btn"
+            android:text="待退款" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/pub_line" />
+    
+      <com.lvdi.ruitianxia_cus.view.pulltorefresh.PullToRefreshListView
+        android:id="@+id/listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:divider="@null"
+        android:fadingEdge="none"
+        android:overScrollMode="never"
+        android:scrollbars="none"
+        android:visibility="visible" />
+
+</LinearLayout>

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lvdi.ruitianxia_cus"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+
+    <permission
+        android:name="com.lvdi.ruitianxia_cus.permission.JPUSH_MESSAGE"
+        android:protectionLevel="signature" />
+    <!-- 权限 -->
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.webkit.permission.PLUGIN" />
+    <!--  -->
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+    <uses-permission android:name="com.android.browser.permission.WRITE_HISTORY_BOOKMARKS" />
+
+    <!-- Permission for Unit Test -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <!-- Required  一些系统要求的权限，如访问网络等 -->
+    <uses-permission android:name="com.lvdi.ruitianxia_cus.permission.JPUSH_MESSAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.READ_LOGS" >
+    </uses-permission>
+
+    <application
+        android:name="com.lvdi.ruitianxia_cus.global.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/myTheme" >
+
+        <!-- Required SDK核心功能 -->
+        <activity
+            android:name="cn.jpush.android.ui.PushActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:exported="false"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.ui.PushActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.lvdi.ruitianxia_cus" />
+            </intent-filter>
+        </activity>
+        <!-- Required  SDK核心功能 -->
+        <service
+            android:name="cn.jpush.android.service.DownloadService"
+            android:enabled="true"
+            android:exported="false" >
+        </service>
+
+        <!-- Required SDK 核心功能 -->
+        <!-- 可配置android:process参数将PushService放在其他进程中 -->
+        <service
+            android:name="cn.jpush.android.service.PushService"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTER" />
+                <action android:name="cn.jpush.android.intent.REPORT" />
+                <action android:name="cn.jpush.android.intent.PushService" />
+                <action android:name="cn.jpush.android.intent.PUSH_TIME" />
+            </intent-filter>
+        </service>
+
+        <!-- since 1.8.0 option 可选项。用于同一设备中不同应用的JPush服务相互拉起的功能。 -->
+        <!-- 若不启用该功能可删除该组件，将不拉起其他应用也不能被其他应用拉起 -->
+        <service
+            android:name="cn.jpush.android.service.DaemonService"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.DaemonService" />
+
+                <category android:name="com.lvdi.ruitianxia_cus" />
+            </intent-filter>
+        </service>
+
+        <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.PushReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter android:priority="1000" >
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" />
+ <!-- Required  显示通知栏 -->
+                <category android:name="com.lvdi.ruitianxia_cus" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <!-- Optional -->
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.AlarmReceiver"
+            android:exported="false" />
+
+        <!-- User defined.  For test only  用户自定义的广播接收器 -->
+        <receiver
+            android:name="com.lvdi.ruitianxia_cus.reveiver.MyReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTRATION" />
+ <!-- Required  用户注册SDK的intent -->
+                <action android:name="cn.jpush.android.intent.UNREGISTRATION" />
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" />
+ <!-- Required  用户接收SDK消息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" />
+ <!-- Required  用户接收SDK通知栏信息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" />
+ <!-- Required  用户打开自定义通知栏的intent -->
+                <action android:name="cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK" />
+ <!-- Optional 用户接受Rich Push Javascript 回调函数的intent -->
+                <action android:name="cn.jpush.android.intent.CONNECTION" />
+ <!-- 接收网络变化 连接/断开 since 1.6.3 -->
+                <category android:name="com.lvdi.ruitianxia_cus" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required  . Enable it you can get statistics data with channel -->
+        <meta-data
+            android:name="JPUSH_CHANNEL"
+            android:value="developer-default" />
+        <meta-data
+            android:name="JPUSH_APPKEY"
+            android:value="21110dfcc7fe80c76cf1fe36" />
+ <!-- </>值来自开发者平台取得的AppKey -->
+        <!-- 支付宝支付 -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind" >
+        </activity>
+        <activity
+            android:name="com.alipay.sdk.auth.AuthActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind" >
+        </activity>
+        <!-- 支付宝支付 -->
+        <!-- 微信支付 -->
+        <receiver android:name="com.lvdi.ruitianxia_cus.wxapi.AppRegister" >
+            <intent-filter>
+                <action android:name="com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop" />
+        <!-- 微信支付 -->
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.order.PayMethodActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:exported="true"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="wx67dc6cf99d12873a" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.LauncherActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.LoginActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.GuideActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.MainActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:launchMode="singleTop" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.RegisterActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.RegisterSuccessActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.FindPassword1Activity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.FindPassword2Activity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.FindPassword3Activity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.PersonCenterActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.PersonInfoActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.PicSelectActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.UnifyWebViewActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.CropImageActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.MyAddressActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.BTerminaActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.SettingActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.ChangeLocationActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.RandomProductActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.NagivationActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.AddAddressActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.AddressDetailActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.shopcart.ShopCartActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.shopcart.SelectO2OSaleActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@style/MyDialogStyleBottom" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.shopcart.SelectO2OServiceTimeActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@style/MyDialogStyleBottom" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.shopcart.ConfirmOrderActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.shopcart.ConfirmO2OServiceActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.order.OrderDetailActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:launchMode="singleTask" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.order.OrderListActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.order.RefundOrderActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.ExpressQueryActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.ServiceCustomActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="com.lvdi.ruitianxia_cus.activity.ProtocolActivity"
+            android:configChanges="keyboardHidden|orientation" >
+        </activity>
+
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" >
+        </service>
+
+        <!-- meta-data需要写在application中 -->
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="xWFlU7rRZiSruQag5jLFbh9S" />
+
+        <!-- Update Activitys Start -->
+        <activity
+            android:name="com.umeng.update.UpdateDialogActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+
+        <!-- Update Activitys End -->
+
+
+        <!-- Caution! Do not change this app key. It is only for demo usage. -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="564ef11167e58e33e7001e38" >
+        </meta-data>
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="Umeng" >
+        </meta-data>
+
+        <service
+            android:name="com.umeng.update.net.DownloadingService"
+            android:process=":DownloadingService" >
+        </service>
+    </application>
+
+</manifest>

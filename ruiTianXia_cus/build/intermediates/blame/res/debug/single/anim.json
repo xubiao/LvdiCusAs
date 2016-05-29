@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\anim\\update_loading_progressbar_anim.xml",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\anim\\update_loading_progressbar_anim.xml"
+    }
+]

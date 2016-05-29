@@ -1,0 +1,264 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f1f1" >
+
+    <ScrollView
+        android:id="@+id/sc_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fadingEdge="none"
+        android:overScrollMode="never"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.3dp"
+                android:layout_marginTop="13dp"
+                android:background="#dbdbdb" />
+
+            <RelativeLayout
+                android:id="@+id/editPasswordRl"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#ffffff" >
+
+                <ImageView
+                    android:id="@+id/logo1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="13dp"
+                    android:src="@drawable/set_password_bg" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="7dp"
+                    android:layout_toRightOf="@+id/logo1"
+                    android:text="修改密码"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="13dp"
+                    android:src="@drawable/set_arrow_r_bg" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.3dp"
+                android:background="#dbdbdb" />
+
+            <RelativeLayout
+                android:id="@+id/callRl"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#ffffff" >
+
+                <ImageView
+                    android:id="@+id/logo2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="13dp"
+                    android:src="@drawable/set_phone_bg" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="7dp"
+                    android:layout_toRightOf="@+id/logo2"
+                    android:text="服务热线: 400-832-0087"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.3dp"
+                android:background="#dbdbdb" />
+
+            <RelativeLayout
+                android:id="@+id/aboutRl"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#ffffff" >
+
+                <ImageView
+                    android:id="@+id/logo3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="13dp"
+                    android:src="@drawable/set_about_bg" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="7dp"
+                    android:layout_toRightOf="@+id/logo3"
+                    android:text="关于时在"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="13dp"
+                    android:src="@drawable/set_arrow_r_bg" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.3dp"
+                android:background="#dbdbdb" />
+
+            <RelativeLayout
+                android:id="@+id/releaseRl"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#ffffff" >
+
+                <ImageView
+                    android:id="@+id/logo4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="13dp"
+                    android:src="@drawable/set_release_bg" />
+
+                <TextView
+                    android:id="@+id/versionTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="7dp"
+                    android:layout_toRightOf="@+id/logo4"
+                    android:text="当前版本"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.3dp"
+                android:background="#dbdbdb" />
+
+            <RelativeLayout
+                android:id="@+id/protocolRl"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#ffffff" >
+
+                <ImageView
+                    android:id="@+id/logo5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="13dp"
+                    android:src="@drawable/qyystk" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="7dp"
+                    android:layout_toRightOf="@+id/logo5"
+                    android:text="企业隐私条款"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="13dp"
+                    android:src="@drawable/set_arrow_r_bg" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.3dp"
+                android:background="#dbdbdb" />
+
+            <RelativeLayout
+                android:id="@+id/mzsmRl"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#ffffff" >
+
+                <ImageView
+                    android:id="@+id/logo6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="13dp"
+                    android:src="@drawable/mzsm" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="7dp"
+                    android:layout_toRightOf="@+id/logo6"
+                    android:text="免责声明"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="13dp"
+                    android:src="@drawable/set_arrow_r_bg" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.3dp"
+                android:background="#dbdbdb" />
+
+            <Button
+                android:id="@+id/logoutBt"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="60dp"
+                android:background="@drawable/login_bg"
+                android:text="退出当前账号"
+                android:textColor="#ffffff"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="42dp"
+                android:gravity="center"
+                android:lineSpacingExtra="6dp"
+                android:text="北京睿天下新媒体信息技术有限公司 版权所有\nCopyright @ 2011-2015 Ruitianxia.\nAll Rights Reserved."
+                android:textColor="#666666"
+                android:textSize="10sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

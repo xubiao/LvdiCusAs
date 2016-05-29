@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/contetRl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/activity_bg" >
+
+    <ExpandableListView
+        android:id="@+id/expandlistview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/layout_bottom"
+        android:divider="#00000000"
+        android:dividerHeight="0dip"
+        android:listSelector="@android:color/transparent" >
+    </ExpandableListView>
+
+    <LinearLayout
+        android:id="@+id/layout_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/pub_black"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_clear"
+            android:layout_width="40dp"
+            android:layout_height="23dp"
+            android:layout_marginLeft="16dp"
+            android:background="@color/pub_dark_red"
+            android:text="清空"
+            android:textColor="@color/white"
+            android:textSize="12sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="32dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_total_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="合计：0"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:gravity="center"
+                android:text="不含运费"
+                android:textColor="@color/pub_white_gray"
+                android:textSize="10sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_submit"
+            android:layout_width="135dp"
+            android:layout_height="fill_parent"
+            android:background="@color/pub_dark_red"
+            android:gravity="center"
+            android:text="去结算"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</RelativeLayout>

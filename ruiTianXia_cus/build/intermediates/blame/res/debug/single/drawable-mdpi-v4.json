@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_video_poster.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\drawable-mdpi\\default_video_poster.png"
+    },
+    {
+        "merged": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\exploded-aar\\LvdiCusAs\\baseFramwork\\unspecified\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    }
+]

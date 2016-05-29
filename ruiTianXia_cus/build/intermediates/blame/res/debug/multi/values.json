@@ -1,0 +1,2733 @@
+[
+    {
+        "outputFile": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endLine": 16,
+                        "endColumn": 19,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 45,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 45,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 40,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1795,
+                        "endColumn": 40,
+                        "endOffset": 1831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endColumn": 39,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 39,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 38,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 38,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 42,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 875,
+                        "endColumn": 42,
+                        "endOffset": 913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 42,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 42,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endColumn": 38,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 38,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 43,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 43,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 46,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 46,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 44,
+                    "endOffset": 913
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 339,
+                        "endColumn": 44,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 918,
+                    "endColumn": 39,
+                    "endOffset": 953
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 94,
+                        "endColumn": 39,
+                        "endOffset": 129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 958,
+                    "endColumn": 44,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 134,
+                        "endColumn": 44,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 46,
+                    "endOffset": 1045
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 46,
+                        "endOffset": 638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1050,
+                    "endColumn": 50,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1836,
+                        "endColumn": 50,
+                        "endOffset": 1882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 40,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 555,
+                        "endColumn": 40,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 38,
+                    "endOffset": 1176
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 38,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1181,
+                    "endColumn": 43,
+                    "endOffset": 1220
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 990,
+                        "endColumn": 43,
+                        "endOffset": 1029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1225,
+                    "endColumn": 45,
+                    "endOffset": 1266
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1349,
+                        "endColumn": 45,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1271,
+                    "endColumn": 45,
+                    "endOffset": 1312
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1415,
+                        "endColumn": 45,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1317,
+                    "endColumn": 46,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1065,
+                        "endColumn": 46,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 44,
+                    "endOffset": 1404
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1490,
+                        "endColumn": 44,
+                        "endOffset": 1530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1409,
+                    "endColumn": 44,
+                    "endOffset": 1449
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1563,
+                        "endColumn": 44,
+                        "endOffset": 1603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1454,
+                    "endColumn": 44,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1628,
+                        "endColumn": 44,
+                        "endOffset": 1668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 43,
+                    "endOffset": 1538
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1751,
+                        "endColumn": 43,
+                        "endOffset": 1790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1543,
+                    "endColumn": 42,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 42,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 44,
+                    "endOffset": 1626
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1690,
+                        "endColumn": 44,
+                        "endOffset": 1730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1631,
+                    "endColumn": 47,
+                    "endOffset": 1674
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1138,
+                        "endColumn": 47,
+                        "endOffset": 1181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1679,
+                    "endColumn": 48,
+                    "endOffset": 1723
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1218,
+                        "endColumn": 48,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1728,
+                    "endColumn": 37,
+                    "endOffset": 1761
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 37,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1766,
+                    "endColumn": 54,
+                    "endOffset": 1816
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\tb_munion_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 54,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1821,
+                    "endColumn": 43,
+                    "endOffset": 1860
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 785,
+                        "endColumn": 43,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1865,
+                    "endColumn": 42,
+                    "endOffset": 1903
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 42,
+                        "endOffset": 780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1908,
+                    "endColumn": 58,
+                    "endOffset": 1962
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 1954,
+                        "endColumn": 58,
+                        "endOffset": 2008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1967,
+                    "endColumn": 47,
+                    "endOffset": 2010
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 643,
+                        "endColumn": 47,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2015,
+                    "endColumn": 50,
+                    "endOffset": 2061
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 50,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2066,
+                    "endColumn": 41,
+                    "endOffset": 2103
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 41,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2108,
+                    "endColumn": 40,
+                    "endOffset": 2144
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 40,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4846,
+                    "endColumn": 57,
+                    "endOffset": 4899
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4904,
+                    "endColumn": 55,
+                    "endOffset": 4955
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4960,
+                    "endColumn": 68,
+                    "endOffset": 5024
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 68,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5029,
+                    "endColumn": 81,
+                    "endOffset": 5106
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 81,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5111,
+                    "endColumn": 81,
+                    "endOffset": 5188
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 81,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5193,
+                    "endColumn": 72,
+                    "endOffset": 5261
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 40,
+                        "endColumn": 72,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5266,
+                    "endColumn": 64,
+                    "endOffset": 5326
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 1888,
+                        "endColumn": 64,
+                        "endOffset": 1948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5331,
+                    "endColumn": 55,
+                    "endOffset": 5382
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 55,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5387,
+                    "endColumn": 54,
+                    "endOffset": 5437
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5442,
+                    "endColumn": 53,
+                    "endOffset": 5491
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 53,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5496,
+                    "endColumn": 41,
+                    "endOffset": 5533
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 41,
+                        "endOffset": 1448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5538,
+                    "endColumn": 38,
+                    "endOffset": 5572
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 38,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5577,
+                    "endColumn": 38,
+                    "endOffset": 5611
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 38,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5616,
+                    "endColumn": 39,
+                    "endOffset": 5651
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 39,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5656,
+                    "endColumn": 39,
+                    "endOffset": 5691
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 39,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5696,
+                    "endColumn": 39,
+                    "endOffset": 5731
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 39,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5736,
+                    "endColumn": 39,
+                    "endOffset": 5771
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 731,
+                        "endColumn": 39,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5776,
+                    "endColumn": 39,
+                    "endOffset": 5811
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 771,
+                        "endColumn": 39,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5816,
+                    "endColumn": 39,
+                    "endOffset": 5851
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 39,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5856,
+                    "endColumn": 39,
+                    "endOffset": 5891
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 851,
+                        "endColumn": 39,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5896,
+                    "endColumn": 39,
+                    "endOffset": 5931
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 39,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5936,
+                    "endColumn": 39,
+                    "endOffset": 5971
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endColumn": 39,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5976,
+                    "endColumn": 39,
+                    "endOffset": 6011
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 971,
+                        "endColumn": 39,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6016,
+                    "endColumn": 38,
+                    "endOffset": 6050
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 38,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6055,
+                    "endColumn": 39,
+                    "endOffset": 6090
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endColumn": 39,
+                        "endOffset": 1046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6095,
+                    "endColumn": 39,
+                    "endOffset": 6130
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1051,
+                        "endColumn": 39,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6135,
+                    "endColumn": 39,
+                    "endOffset": 6170
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 39,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6175,
+                    "endColumn": 39,
+                    "endOffset": 6210
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1131,
+                        "endColumn": 39,
+                        "endOffset": 1166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6215,
+                    "endColumn": 39,
+                    "endOffset": 6250
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1171,
+                        "endColumn": 39,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6255,
+                    "endColumn": 39,
+                    "endOffset": 6290
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 39,
+                        "endOffset": 1246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6295,
+                    "endColumn": 39,
+                    "endOffset": 6330
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1251,
+                        "endColumn": 39,
+                        "endOffset": 1286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6335,
+                    "endColumn": 39,
+                    "endOffset": 6370
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1291,
+                        "endColumn": 39,
+                        "endOffset": 1326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6375,
+                    "endColumn": 39,
+                    "endOffset": 6410
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endColumn": 39,
+                        "endOffset": 1366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6415,
+                    "endColumn": 39,
+                    "endOffset": 6450
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1371,
+                        "endColumn": 39,
+                        "endOffset": 1406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6455,
+                    "endColumn": 38,
+                    "endOffset": 6489
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 38,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 6494,
+                    "endColumn": 38,
+                    "endOffset": 6528
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 38,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 6533,
+                    "endColumn": 38,
+                    "endOffset": 6567
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endColumn": 38,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 6572,
+                    "endColumn": 38,
+                    "endOffset": 6606
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 38,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 6611,
+                    "endColumn": 38,
+                    "endOffset": 6645
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 38,
+                        "endOffset": 528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 6650,
+                    "endColumn": 38,
+                    "endOffset": 6684
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 533,
+                        "endColumn": 38,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 6689,
+                    "endColumn": 38,
+                    "endOffset": 6723
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 38,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 6728,
+                    "endColumn": 44,
+                    "endOffset": 6768
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 44,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 6773,
+                    "endColumn": 47,
+                    "endOffset": 6816
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 6821,
+                    "endColumn": 61,
+                    "endOffset": 6878
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 61,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 6883,
+                    "endColumn": 56,
+                    "endOffset": 6935
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 56,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 6940,
+                    "endColumn": 41,
+                    "endOffset": 6977
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 41,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 6982,
+                    "endColumn": 47,
+                    "endOffset": 7025
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 47,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 7030,
+                    "endColumn": 41,
+                    "endOffset": 7067
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 41,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 7072,
+                    "endColumn": 47,
+                    "endOffset": 7115
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 47,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 7120,
+                    "endColumn": 56,
+                    "endOffset": 7172
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 590,
+                        "endColumn": 56,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 7177,
+                    "endColumn": 58,
+                    "endOffset": 7231
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 58,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 7236,
+                    "endColumn": 48,
+                    "endOffset": 7280
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 48,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 7285,
+                    "endColumn": 44,
+                    "endOffset": 7325
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 44,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 7330,
+                    "endColumn": 47,
+                    "endOffset": 7373
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 47,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 7378,
+                    "endColumn": 47,
+                    "endOffset": 7421
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_update_string.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 47,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 7426,
+                    "endColumn": 59,
+                    "endOffset": 7481
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 59,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 7486,
+                    "endColumn": 39,
+                    "endOffset": 7521
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 39,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 7526,
+                    "endColumn": 37,
+                    "endOffset": 7559
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 37,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 7564,
+                    "endColumn": 55,
+                    "endOffset": 7615
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 55,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 7620,
+                    "endColumn": 68,
+                    "endOffset": 7684
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 919,
+                        "endColumn": 68,
+                        "endOffset": 983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 7689,
+                    "endColumn": 109,
+                    "endOffset": 7794
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 109,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 7799,
+                    "endColumn": 100,
+                    "endOffset": 7895
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 100,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 7900,
+                    "endColumn": 70,
+                    "endOffset": 7966
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endColumn": 70,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 7971,
+                    "endColumn": 67,
+                    "endOffset": 8034
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 67,
+                        "endOffset": 695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 8039,
+                    "endColumn": 105,
+                    "endOffset": 8140
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 105,
+                        "endOffset": 913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 8145,
+                    "endColumn": 69,
+                    "endOffset": 8210
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1188,
+                        "endColumn": 69,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 8215,
+                    "endColumn": 91,
+                    "endOffset": 8302
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1095,
+                        "endColumn": 91,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 8307,
+                    "endColumn": 104,
+                    "endOffset": 8407
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 104,
+                        "endOffset": 1089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 8412,
+                    "endColumn": 71,
+                    "endOffset": 8479
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 71,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 8484,
+                    "endColumn": 60,
+                    "endOffset": 8540
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 48,
+                        "endColumn": 60,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 8545,
+                    "endColumn": 64,
+                    "endOffset": 8605
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 64,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 8610,
+                    "endColumn": 74,
+                    "endOffset": 8680
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 74,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 8685,
+                    "endColumn": 67,
+                    "endOffset": 8748
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 67,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 8753,
+                    "endColumn": 62,
+                    "endOffset": 8811
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\pull_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 62,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 8816,
+                    "endColumn": 63,
+                    "endOffset": 8875
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\tb_munion_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 63,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 8880,
+                    "endColumn": 57,
+                    "endOffset": 8933
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 301,
+                        "endColumn": 54,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 8938,
+                    "endColumn": 59,
+                    "endOffset": 8993
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 243,
+                        "endColumn": 56,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 8998,
+                    "endColumn": 65,
+                    "endOffset": 9059
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 62,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 9064,
+                    "endColumn": 56,
+                    "endOffset": 9116
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 188,
+                        "endColumn": 53,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 9121,
+                    "endColumn": 61,
+                    "endOffset": 9178
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 721,
+                        "endColumn": 58,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 9183,
+                    "endColumn": 67,
+                    "endOffset": 9246
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 781,
+                        "endColumn": 64,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 9251,
+                    "endColumn": 76,
+                    "endOffset": 9323
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 357,
+                        "endColumn": 73,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 9328,
+                    "endColumn": 50,
+                    "endOffset": 9374
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 987,
+                        "endColumn": 47,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 9379,
+                    "endColumn": 71,
+                    "endOffset": 9446
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 118,
+                        "endColumn": 68,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 9451,
+                    "endColumn": 71,
+                    "endOffset": 9518
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 71,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 9523,
+                    "endColumn": 64,
+                    "endOffset": 9583
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 847,
+                        "endColumn": 61,
+                        "endOffset": 907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 9588,
+                    "endColumn": 71,
+                    "endOffset": 9655
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 432,
+                        "endColumn": 68,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 9660,
+                    "endColumn": 78,
+                    "endOffset": 9734
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 910,
+                        "endColumn": 75,
+                        "endOffset": 984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 9739,
+                    "endColumn": 75,
+                    "endOffset": 9810
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 502,
+                        "endColumn": 72,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 9815,
+                    "endColumn": 73,
+                    "endOffset": 9884
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 576,
+                        "endColumn": 70,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 9889,
+                    "endLine": 156,
+                    "endColumn": 12,
+                    "endOffset": 10117
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2077,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 2305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 10122,
+                    "endLine": 163,
+                    "endColumn": 12,
+                    "endOffset": 10408
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\build\\intermediates\\exploded-aar\\LvdiCusAs\\baseFramwork\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 10413,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 10679
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3328,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 3594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 10684,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 10842
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 10847,
+                    "endLine": 177,
+                    "endColumn": 12,
+                    "endOffset": 11062
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1626,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 11067,
+                    "endLine": 182,
+                    "endColumn": 12,
+                    "endOffset": 11269
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1847,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 11274,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 11991
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endLine": 73,
+                        "endColumn": 12,
+                        "endOffset": 3322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 11996,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 12284
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2311,
+                        "endLine": 56,
+                        "endColumn": 12,
+                        "endOffset": 2599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 12289,
+                    "endColumn": 50,
+                    "endOffset": 12335
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endColumn": 57,
+                        "endOffset": 129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 12340,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 12485
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 12490,
+                    "endLine": 216,
+                    "endColumn": 12,
+                    "endOffset": 12986
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 12991,
+                    "endLine": 226,
+                    "endColumn": 12,
+                    "endOffset": 13580
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 13585,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 14117
+                },
+                "from": {
+                    "file": "D:\\gitwork\\LvdiCusAs\\ruiTianXia_cus\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1088,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1620
+                    }
+                }
+            }
+        ]
+    }
+]

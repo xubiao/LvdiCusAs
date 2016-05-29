@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="19dp"
+            android:src="@drawable/permission_tob_bg" />
+
+        <ImageView
+            android:id="@+id/closeIv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:padding="13dp"
+            android:src="@drawable/permission_tob_close" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="39dp"
+        android:gravity="center"
+        android:lineSpacingExtra="8dp"
+        android:text="请将您所在公司的企业营业执照、企\n业税务登记证、企业组织机构代码证\n以及个人联系方式邮件发送到"
+        android:textColor="#35b38d"
+        android:textSize="13sp" />
+
+    <TextView
+        android:lineSpacingExtra="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="3dp"
+        android:gravity="left"
+        android:text="客户服务： service@rtianxia.com\n商务合作： business@rtianxia.com"
+        android:textColor="#35b38d"
+        android:textSize="16sp" />
+    
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="49dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="电话： 400-832-0087"
+        android:textColor="#144f3d"
+        android:textSize="16sp" />
+
+</LinearLayout>
